@@ -61,7 +61,6 @@ public class Sudoku{
                 if (m[i][j] == 0){
                     for (int k = 1; k <= m.length; k++) {
                         m[i][j] = k;
-                        System.out.println(k);
                         if(check(m,i,j) && fill(m)){
                             return true;
                         }
