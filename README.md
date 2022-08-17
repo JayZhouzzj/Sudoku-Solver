@@ -1,6 +1,6 @@
 # Sudoku-Solver
 This is a CLI-based program to solve sudoku of any size.
-- This is my first personal project ever. Built after taking CSCI 1105 Introduction to Computer Programming at Dalhousie University.
+- This was my first personal project ever. Built after taking CSCI 1105 Introduction to Computer Programming at Dalhousie University.
 - Designed and implemented this program to help my little cousin with his insanely hard sudoku homework 💪.
 
 ## How to run
