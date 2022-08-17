@@ -18,7 +18,7 @@ public class Sudoku{
         System.out.println("There will not be duplicated numbers in each row, column, and box");
         System.out.println("The size of box is (n^0.5) * (n^0.5).");
         System.out.println("All structure is basically the same as 9*9 ordinary sudoku.");
-        System.out.println("Type in the size of the given sudoku board(9 if its an ordinary 9*9 matrix): ");
+        System.out.println("Type in the size of the given sudoku board (9 if it's an ordinary 9*9 matrix): ");
         int size = kb.nextInt();
         System.out.print("Type in the sudoku matrix. Type in 0 to represent blank.");
         System.out.println("The order is left to right, top to bottom. Please separate each number with space or enter.");
