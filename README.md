@@ -1,9 +1,9 @@
 # Sudoku-Solver
 This is a CLI-based program to solve sudoku of any size.
-- This was my first personal project ever. Built after taking CSCI 1105 Introduction to Computer Programming at Dalhousie University.
+- This was my first personal project ever. Built in 2020 after taking CSCI 1105 Introduction to Computer Programming at Dalhousie University.
 - Designed and implemented this program to help my little cousin with his insanely hard sudoku homework 💪.
 
-## How to run
+## 🏃‍♂️How to run
 First, clone the repository by `git clone https://github.com/JayZhouzzj/Sudoku-Solver.git` or `git clone git@github.com:JayZhouzzj/Sudoku-Solver.git`
 ### If you want to run it from your terminal
 1. `cd Sudoku-Solver`
@@ -57,7 +57,7 @@ Then just follow the prompts in your terminal!
 > [7, 3, 1, 8, 5, 2, 6, 4, 9]
 > ```
 
-## What can be next
+## 💡What can be next
 - Use better algorithms. Currently it is a brute-force approach by recursion.
 - Add continue/end flow.
 - Deploy and have a simple web interface.
